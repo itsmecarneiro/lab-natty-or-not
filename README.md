@@ -1,13 +1,13 @@
-  Você sabe o que é "Fake Natty"?
+  Eu sou real... ou sou IA?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto é destinado para o bootcamp da DIO com a Caixa e a Microsoft, sobre IA Generativas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Hey Gen
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Em
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
