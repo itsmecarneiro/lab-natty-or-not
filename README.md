@@ -5,7 +5,7 @@
 
 
 ## 📒 Descrição
-Esse projeto é destinado para o bootcamp da DIO com a Caixa e a Microsoft, sobre IA Generativas.
+Esse projeto é destinado para o bootcamp CAIXA - IA Generativa com Microsoft Copilot.
 
 ## 🤖 Tecnologias Utilizadas
 Música "Mente Sintética": Brev.ai;
