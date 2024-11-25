@@ -4,11 +4,11 @@
 Esse projeto é destinado para o bootcamp da DIO com a Caixa e a Microsoft, sobre IA Generativas.
 
 ## 🤖 Tecnologias Utilizadas
-Música "Mente Sintética":
-Imagem da pintura: Leonardo AI
-Vídeo: Hey Gen
-Narração: Labs
-Script: Chat GPT
+Música "Mente Sintética": Brev.ai
+Imagem da pintura: Leonardo.Ai
+Vídeo: HeyGen
+Narração: ElevenLabs
+Script: ChatGPT
 
 
 ## 🧐 Processo de Criação
