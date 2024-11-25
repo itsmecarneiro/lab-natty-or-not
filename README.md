@@ -4,13 +4,18 @@
 Esse projeto é destinado para o bootcamp da DIO com a Caixa e a Microsoft, sobre IA Generativas.
 
 ## 🤖 Tecnologias Utilizadas
-- Hey Gen
+Música "Mente Sintética":
+Imagem da pintura: Leonardo AI
+Vídeo: Hey Gen
+Narração: Labs
+Script: Chat GPT
+
 
 ## 🧐 Processo de Criação
-Em
+Decidi criar um vídeo que utilizasse todos os conhecimentos passados pela DIO até esse projeto. Fazendo o uso de diversas plataformas de IA para que se tornasse totalmente único e criativo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado do vídeo atingiu muito minha expectativa. Foi possível gravar o vídeo de um jeito que pude transformar ele em avatar no Hey Gen. A letra da música foi criada pela IA enviando o prompt de "Falar sobre IA no passado, presente e futuro", e foi possível finalizar a música dando o som e a voz no (Site da música). A imagem foi criada no Leonardo IA com a pesquisa "Foto que parece uma pintura feita a mão".
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi incrível ter feito esse projeto. Me senti muito preparada para me desafiar e fazer algo "Natty".
