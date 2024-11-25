@@ -1,5 +1,9 @@
 # Curso de IA Generativa – Onde o real e o virtual se encontram
 
+[Youtube - Real ou IA?](https://www.google.com)
+[Linkedin - Real ou IA?](https://www.exemplo.com)
+
+
 ## 📒 Descrição
 Esse projeto é destinado para o bootcamp da DIO com a Caixa e a Microsoft, sobre IA Generativas.
 
