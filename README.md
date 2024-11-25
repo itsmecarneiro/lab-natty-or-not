@@ -8,11 +8,11 @@
 Esse projeto é destinado para o bootcamp CAIXA - IA Generativa com Microsoft Copilot.
 
 ## 🤖 Tecnologias Utilizadas
-Música "Mente Sintética": Brev.ai;
-Imagem da pintura: Leonardo.Ai;
-Vídeo: HeyGen;
-Narração: ElevenLabs;
-Script: ChatGPT.
+- Música "Mente Sintética": Brev.ai;
+- Imagem da pintura: Leonardo.Ai;
+- Vídeo: HeyGen;
+- Narração: ElevenLabs;
+- Script: ChatGPT.
 
 
 ## 🧐 Processo de Criação
