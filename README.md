@@ -1,7 +1,7 @@
 # Curso de IA Generativa – Onde o real e o virtual se encontram
 
-[Youtube - Real ou IA?](https://youtu.be/Rr_DOgzc_es)
-[Linkedin - Real ou IA?](https://www.exemplo.com)
+- [Youtube - Real ou IA?](https://youtu.be/Rr_DOgzc_es)
+- [Linkedin - Real ou IA?](https://www.exemplo.com)
 
 
 ## 📒 Descrição
